@@ -1,1 +1,0 @@
-UPDATE film_screening SET discount_ticket = 23; 
