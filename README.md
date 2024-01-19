@@ -15,8 +15,8 @@ W folderze "queries MySQL" znajdziesz rozwiązania zadań SQL, ale związane z i
 ### Zawartość Foldera "Sieć kin"
 
 W folderze "Sieć kin" znajdziesz dwa rodzaje plików, które prezentują proces tworzenia i edycji bazy danych sieci kin:
-- **PDF Zrzut Ekranu z Poleceniem SQL** Pliki w formacie PDF zawierają zrzuty ekranu prezentujące konkretne polecenie SQL wraz z efektem jego wykonania w programie. To świetne narzędzie wizualizacyjne, które pomaga zobaczyć, jakie zmiany wprowadza dana komenda.
-- **Pliki SQL z Kodem Źródłowym** Pliki w formacie SQL zawierają wyłącznie kod źródłowy komendy, bez elementów graficznych. To idealne miejsce do sprawdzenia samego kodu, analizy struktury zapytania SQL i jego logicznego układu.
+- **PDF Zrzut Ekranu z Poleceniem SQL**: Pliki w formacie PDF zawierają zrzuty ekranu prezentujące konkretne polecenie SQL wraz z efektem jego wykonania w programie. To świetne narzędzie wizualizacyjne, które pomaga zobaczyć, jakie zmiany wprowadza dana komenda.
+- **Pliki SQL z Kodem Źródłowym**: Pliki w formacie SQL zawierają wyłącznie kod źródłowy komendy, bez elementów graficznych. To idealne miejsce do sprawdzenia samego kodu, analizy struktury zapytania SQL i jego logicznego układu.
 
 Oba rodzaje plików są dostępne, aby zaspokoić różne preferencje użytkowników: jeśli wolisz wizualny podgląd, skorzystaj z plików PDF; jeśli wolisz analizować sam kod, skorzystaj z plików SQL. Oba formaty są dostępne dla pełnej elastyczności w korzystaniu z zasobów projektu.
 
