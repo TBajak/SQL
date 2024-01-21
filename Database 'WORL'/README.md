@@ -16,4 +16,4 @@ Projekt został stworzony przy użyciu MySQL, silnego systemu zarządzania bazą
 
 Jeśli masz pytania, sugestie lub chcesz się podzielić swoim wkładem, śmiało twórz nowe problemy (*issues*) lub przesyłaj zapytania o łączenie zmian (*pull requests*).
 
-Dziękuję za zainteresowanie moim projektem! Mam nadzieję, że będzie on użyteczny w Twojej nauce związanej z bazami danych MySQL.
+Dziękuję za zainteresowanie moim projektem!
