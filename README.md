@@ -14,7 +14,7 @@ Witaj w zakładce SQL, gdzie znajdziesz różnorodne projekty związane z język
 
 W przyszłości planujemy dodanie nowych projektów związanych z językiem SQL. Każdy projekt będzie stanowił okazję do nauki i rozwijania umiejętności w obszarze baz danych.
 
-## Jak Przyczynić Się?
+## Wsparcie i Wkład
 
 Jeśli masz pomysły na nowe projekty, pytania dotyczące istniejących projektów lub chcesz się podzielić swoimi projektami, śmiało twórz nowe problemy (*issues*) lub przesyłaj zapytania o łączenie zmian (*pull requests*).
 
