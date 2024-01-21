@@ -7,7 +7,7 @@ Witaj w zakładce SQL, gdzie znajdziesz różnorodne projekty związane z język
 1. **Database 'Sieć Kin' (PostgreSQL)**
    - Opis: Projekt skupia się na tworzeniu i manipulacji danymi związanych z nowopowstałą bazą danych sieci kin w Krakowie. Wykorzystuje PostgreSQL do zarządzania bazą danych.
 
-2. **Database 'world' w MySQL**
+2. **Database 'world' (MySQL)**
    - Opis: Projekt koncentruje się na rozwiązywaniu zadań związanych z istniejącą już bazą danych 'world' przy użyciu MySQL. Obejmuje wykonane zapytania SQL oraz opisy poszczególnych zadań.
 
 ## Dodatkowe Projekty
