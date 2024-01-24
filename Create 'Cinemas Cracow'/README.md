@@ -3,11 +3,11 @@
 Witaj w projekcie database 'Cinemas Cracow'! 
 Ten projekt powstał w ramach nauki i ćwiczeń z języka SQL. W folderze "Sieć kin" znajdziesz komendy SQL związane z tworzeniem nowej bazy danych dotyczącej sieci kin w Krakowie. Zadaniem tego projektu było wykorzystanie różnorodnych komend SQL do manipulacji danymi, obejmując tworzenie, dodawanie, usuwanie oraz edycję rekordów w PostgreSQL.
 
-## Struktura Bazy Danych "Sieć kin"
+## Struktura 'Cinemas Cracow' 
 
 Baza danych obejmuje informacje o filmach, salach kinowych, seansach, klientach związanych z siecią kin. Każde zdjęcie w repozytorium jest starannie zatytułowane w odniesieniu do użytej komendy SQL, co ułatwia identyfikację operacji na danych.
 
-## Zawartość Foldera "Sieć kin"
+## Zawartość 'Create Cinemas Cracow'
 
 W folderze 'Create Cinemas Cracow' znajdziesz dwa rodzaje plików, które prezentują proces tworzenia i edycji bazy danych sieci kin:
 - **PDF zrzuty ekranu z poleceniem SQL**: Pliki w formacie PDF zawierają zrzuty ekranu prezentujące konkretne polecenie SQL wraz z efektem jego wykonania w programie. To świetne narzędzie wizualizacyjne, które pomaga zobaczyć, jakie zmiany wprowadza dana komenda.
