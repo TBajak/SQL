@@ -4,7 +4,7 @@ Witaj w zakładce SQL, gdzie znajdziesz różnorodne projekty związane z język
 
 ## Projekty
 
-1. **Database 'Sieć Kin' (PostgreSQL)**
+1. **Create 'Cinemas Cracow' (PostgreSQL)**
    - Opis: Projekt skupia się na tworzeniu i manipulacji danymi związanych z nowopowstałą bazą danych sieci kin w Krakowie. Wykorzystuje PostgreSQL do zarządzania bazą danych.
 
 2. **Database 'world' (MySQL)**
